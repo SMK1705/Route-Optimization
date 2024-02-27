@@ -1,0 +1,33 @@
+<nav id="iuo1oa">
+    <h3 id="i25pqs"><span id="i66pdi">ROUTE OPTIMIZATION</span></h3>
+</nav>
+<div class="row">
+    <div class="st-col col-12 col-sm st-module">
+        <p>Start and Destination City shortest path<br /></p>
+        <plotly :data="plot1" id="iumlm"></plotly>
+        <div v-text="tag1">Div Text</div>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <p>Starting city</p>
+        <q-select v-model="city1" :options="oCity"></q-select>
+        <p>Destination city</p>
+        <q-select v-model="city2" :options="oCity"></q-select>
+    </div>
+</div>
+<div class="row">
+    <div class="st-col col-12 col-sm st-module">
+        <p>Start to Intermediary city shortest path</p>
+        <plotly :data="plot2"></plotly>
+        <p v-text="tag2"></p>
+        <p>Optimal Path</p>
+        <plotly :data="plot3"></plotly>
+        <p v-text="tag3"></p>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <p>Intermediary city</p>
+        <q-select :options="oCity" v-model="intCity"></q-select>
+        <p v-text="p1mile">Default content</p>
+        <p v-text="p2mile">Default content</p>
+        <p v-text="p3mile">Default content</p>
+    </div>
+</div>

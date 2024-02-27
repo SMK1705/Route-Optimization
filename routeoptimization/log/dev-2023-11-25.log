@@ -1,0 +1,220 @@
+┌ Info: 2023-11-25 20:01:22 Watching ["C:\\Users\\smkaa\\.julia\\geniebuilder\\apps\\routeoptimization"]
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-11-25 20:01:34 Watching ["C:\\Users\\smkaa\\.julia\\geniebuilder\\apps\\routeoptimization"]
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-11-25 20:01:36 
+│ Web Server starting at http://0.0.0.0:9103 - press Ctrl/Cmd+C to stop the server. 
+└ @ Genie.Server C:\Users\smkaa\.julia\packages\Genie\UTv5H\src\Server.jl:166
+┌ Info: 2023-11-25 20:01:37 Listening on: 0.0.0.0:9103, thread id: 1
+└ @ HTTP.Servers C:\Users\smkaa\.julia\packages\HTTP\SN7VW\src\Servers.jl:367
+┌ Info: 2023-11-25 20:17:06 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:25:45 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:26:20 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:26:51 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:27:15 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:27:33 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:28:16 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:30:07 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:30:32 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:32:27 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:35:43 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:38:01 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:48:12 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:49:46 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:53:51 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:54:15 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:54:44 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:55:02 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:55:52 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:56:15 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:57:35 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:58:28 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:58:45 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:58:53 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:59:01 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:59:10 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:59:18 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 20:59:58 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 21:05:54 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 21:06:02 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 21:06:24 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 21:07:45 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 21:09:13 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 21:10:46 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 21:22:01 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-11-25 21:22:44 Autoreloading
+└ @ GenieAutoReload C:\Users\smkaa\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Error: 2023-11-25 21:22:47 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = Revise.ReviseEvalException("C:\\Users\\smkaa\\.julia\\geniebuilder\\apps\\routeoptimization\\app.jl:4", ArgumentError("Package @genietools not found in current path.\n- Run `import Pkg; Pkg.add(\"@genietools\")` to install the @genietools package."), Any[(top-level scope at app.jl:4, 1)])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:723
+┌ Warning: 2023-11-25 21:22:48 The running code does not match the saved version for the following files:
+│ 
+│   C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:833
+┌ Error: 2023-11-25 21:22:50 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = Revise.ReviseEvalException("C:\\Users\\smkaa\\.julia\\geniebuilder\\apps\\routeoptimization\\app.jl:4", ArgumentError("Package gra not found in current path.\n- Run `import Pkg; Pkg.add(\"gra\")` to install the gra package."), Any[(top-level scope at app.jl:4, 1)])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:723
+┌ Error: 2023-11-26 12:13:47 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Warning: 2023-11-26 12:13:48 The running code does not match the saved version for the following files:
+│ 
+│   C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:833
+┌ Error: 2023-11-26 12:14:43 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 12:15:43 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 12:19:43 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 12:20:43 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (LoadError("C:\\Users\\smkaa\\.julia\\geniebuilder\\apps\\routeoptimization\\app.jl", 173, "unexpected \",\""), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ff9c0bde2b9])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 12:21:43 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 12:22:43 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 12:23:43 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 12:24:43 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 13:47:56 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 15:41:35 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 15:42:35 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 15:43:35 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 15:44:35 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 15:45:35 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 15:46:28 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:10:20 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (LoadError("C:\\Users\\smkaa\\.julia\\geniebuilder\\apps\\routeoptimization\\app.jl", 203, "invalid macro usage \"@(@onchange # C:\\Users\\smkaa\\.julia\\geniebuilder\\apps\\routeoptimization\\app.jl, line 197 oCity begin\n    # C:\\Users\\smkaa\\.julia\\geniebuilder\\apps\\routeoptimization\\app.jl, line 202\nend)\""), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ff9c0bde2b9])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:10:22 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:10:26 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:10:28 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:12:30 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:12:33 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:16:03 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:16:55 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:22:07 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:22:11 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:22:40 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:23:10 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:23:35 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:24:10 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:24:14 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:25:13 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:25:17 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:25:35 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:25:45 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:25:46 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:25:49 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:26:15 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-11-26 17:26:35 Failed to revise C:\Users\smkaa\.julia\geniebuilder\apps\routeoptimization\app.jl
+│   exception = (KeyError(Tuple{typeof(Main.App.__genietools)}), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\smkaa\.julia\packages\Revise\xRltd\src\packagedef.jl:725
